@@ -3,8 +3,8 @@
 
 int main()
 {
-printf("안녕하세요! 제언입니다!");
-return 0;
+  printf("안녕하세요! 제언입니다!");
+  return 0;
 }
 ```
 
